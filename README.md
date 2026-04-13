@@ -2,6 +2,7 @@
 This project implements an embedded thermal management system using ESP32, integrating temperature sensing, real-time display, and automatic cooling control.
 The system monitors temperature using a DS18B20 sensor and activates a cooling module via relay when a predefined threshold is exceeded. An OLED display provides real-time visualization of system status.
 <img width="1108" height="1477" alt="image" src="https://github.com/user-attachments/assets/b7baf436-f57b-4cfe-9189-4fd979b9c2f4" />
+<img width="419" height="729" alt="image" src="https://github.com/user-attachments/assets/332ccf51-de04-42db-8612-0a85cc973db7" />
 
 
 ## Hardware Components
